@@ -9,7 +9,7 @@ For this project, we expect you to look at these concepts:
 # Resources
 Read or watch:
 
-* [Resources to learn Git] (https://docs.github.com/en/get-started/quickstart/set-up-git)
+* [Resources to learn Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
 * [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 * [How to write a Git commit message](https://cbea.ms/git-commit/)
 Resources for advanced tasks (Read only after finishing the mandatory tasks):
